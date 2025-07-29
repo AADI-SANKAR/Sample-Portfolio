@@ -1,9 +1,3 @@
-# Sample-Portfolio
-Of course! Here is a friendly and enthusiastic `README.md` file content that you can add to your GitHub repository. It explains the purpose of the project with a positive tone and plenty of emojis.
-
-You can create a new file in your repository named `README.md` and paste the following content into it.
-
-***
 
 # My First Azure-Hosted Portfolio! 🚀☁️
 
